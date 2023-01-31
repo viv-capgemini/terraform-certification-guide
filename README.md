@@ -8,3 +8,6 @@ The objective differences between the exam versions focus on reorganization and 
 
 ### Exam Dumps
 https://www.examtopics.com/exams/hashicorp/terraform-associate/view/
+
+### Courses
+https://www.udemy.com/course/hashicorp-certified-terraform-associate-step-by-step/learn/lecture/25590618#overview
