@@ -11,3 +11,6 @@ https://www.examtopics.com/exams/hashicorp/terraform-associate/view/
 
 ### Courses
 https://www.udemy.com/course/hashicorp-certified-terraform-associate-step-by-step/learn/lecture/25590618#overview
+
+### Terraform Versions
+https://releases.hashicorp.com/terraform/
