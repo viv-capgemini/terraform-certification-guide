@@ -4,4 +4,9 @@
 ## Usage
 
 See examples directory for working examples to reference:
-
+```hcl
+module "sg_module" {
+        source = "./modules/security_group/"
+        env="dev"
+}
+```
